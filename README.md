@@ -52,9 +52,9 @@ will convert the file to JSON format, and output the converted file to the same 
 ### Example
 
 #### sample_data.csv
-![sample_csv](csv_sample.png)
+<img src="csv_sample.png" height="75%" width="75%">
 
 #### converted to JSON
-![json_conversion](json_conversion_sample.png)
+<img src="json_conversion.png" height="75%" width="75%">
 
 
