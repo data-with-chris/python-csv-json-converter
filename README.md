@@ -21,7 +21,7 @@ Python’s core libraries can handle simple data transformation tasks, providing
 ## Setup and Installation
 1. Clone the repo:
 ```
-git clone <your-repo-url>
+git clone https://github.com/data-with-chris/python-csv-json-converter.git
 cd python-csv-json-converter
 ```
 2. Create and activate a virtual environment
