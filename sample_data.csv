@@ -1,0 +1,21 @@
+id,name,age,email,subscribed,signup_date,country
+1,John Doe,28,john.doe@example.com,True,2023-01-15,USA
+2,Alice Smith,34,alice.smith@example.com,False,2022-11-22,Canada
+3,Bob Johnson,45,bob.j@example.com,True,2021-07-09,UK
+4,Carol White,29,carol.white@example.com,False,2023-02-01,Australia
+5,David Brown,31,david.b@example.com,True,2022-12-10,USA
+6,Eva Green,26,eva.green@example.com,True,2023-03-05,Germany
+7,Frank Harris,37,frank.h@example.com,False,2021-06-18,France
+8,Grace Lee,42,grace.lee@example.com,True,2022-08-23,Japan
+9,Hank Miller,39,hank.m@example.com,False,2021-09-30,USA
+10,Ivy Wilson,33,ivy.w@example.com,True,2022-10-11,Canada
+11,Jack Young,27,jack.y@example.com,False,2023-01-29,UK
+12,Kate Adams,36,kate.a@example.com,True,2022-05-14,Australia
+13,Liam Scott,41,liam.s@example.com,True,2021-12-01,USA
+14,Mia Turner,30,mia.t@example.com,False,2022-07-22,Germany
+15,Noah Baker,38,noah.b@example.com,True,2023-02-17,France
+16,Olivia Carter,25,olivia.c@example.com,False,2022-09-05,Japan
+17,Paul Evans,44,paul.e@example.com,True,2021-11-30,USA
+18,Quinn Foster,32,quinn.f@example.com,False,2022-03-12,Canada
+19,Rachel Gray,29,rachel.g@example.com,True,2023-04-02,UK
+20,Sam Hill,35,sam.h@example.com,True,2022-06-28,Australia
